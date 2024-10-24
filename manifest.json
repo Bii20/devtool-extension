@@ -5,8 +5,8 @@
     "description": "A simple Chrome DevTool extension to inspect and modify page info.",
     "permissions": ["activeTab"],
     "background": {
-      "service_worker": "devtool.js"
+      "service_worker": "index.js"
     },
-    "devtools_page": "devtool.html"
+    "devtools_page": "index.html"
   }
   
